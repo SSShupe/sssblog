@@ -2,8 +2,10 @@
 
 title: Welcome to the New SSS Blog
 description: Why I moved my blog from WordPress to the JAMStack
-date: March 27, 2020
+date: 2020-03-27
+menu: "posts"
 draft: true
+
 ---Welcome to the new SSS Blog.
 
 Why a new blog, when the existing one works fine?
