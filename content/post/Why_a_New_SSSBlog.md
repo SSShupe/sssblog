@@ -1,9 +1,9 @@
 ---
 
 title: Welcome to the New SSS Blog
+author: Steve Shupe
 description: Why I moved my blog from WordPress to the JAMStack
 date: 2020-03-27
-menu: "posts"
 draft: true
 
 ---Welcome to the new SSS Blog.
