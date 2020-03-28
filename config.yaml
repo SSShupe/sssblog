@@ -1,7 +1,7 @@
 baseURL: "https://example.com/"
 languageCode: en-us
 title: The New SSS Blog
-theme: github.com/mavidser/hugo-rocinante
+theme: github.com/calintat/minimal
 paginate: 3
 markup:
   highlight:
