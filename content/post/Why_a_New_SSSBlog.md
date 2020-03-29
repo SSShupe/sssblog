@@ -22,4 +22,4 @@ One change you'll note has to do with comments. The existing blog has a comment 
 
 Finally, you'll continue to see the same kind of content, political rants, coding rants, sports rants (those may have to wait awhile), rants of all kinds. And pictures, who could forget pictures!
 
-![Suzie and our New Dog](Suzie and Sparky.jpg "Suzie and Our New Dog")
+![Suzie and our New Dog](https://live.staticflickr.com/65535/49713584357_3b4f0086a8_c_d.jpg "Suzie and Our New Dog")
