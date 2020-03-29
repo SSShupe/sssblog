@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The New SSS Blog</title>
+    <link>https://newblog.ssshupe.com/post/</link>
+    <description>Recent content in Posts on The New SSS Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://newblog.ssshupe.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to the New SSS Blog</title>
+      <link>https://newblog.ssshupe.com/post/why_a_new_sssblog/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://newblog.ssshupe.com/post/why_a_new_sssblog/</guid>
+      <description>Welcome to the new SSS Blog.
+Why a new blog, when the existing one works fine?
+The main reason is that since I feel confident about my coding abilities in several different &amp;ldquo;traditional&amp;rdquo; programming languages, I&amp;rsquo;m now interested in working in more web-centric languages and frameworks. I&amp;rsquo;ve always put off learning HTML, CSS, and JavaScript because they seemed clunky and obtuse. But I&amp;rsquo;ve realized that whereas ten years ago the desktop was everything, now the web (and mobile apps) are king.</description>
+    </item>
+    
+  </channel>
+</rss>

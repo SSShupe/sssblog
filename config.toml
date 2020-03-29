@@ -1,4 +1,4 @@
-baseURL = "http://example.com/"
+baseURL = "https://newblog.ssshupe.com/"
 languageCode = "en-us"
 title = "The New SSS Blog"
 theme = "minimal"
